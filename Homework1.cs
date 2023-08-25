@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Homework1 : MonoBehaviour
 {
-    // Int değişkenler.
+    // Int değişkenleri.
     int health = 10;
     int health1 = 5;
     int health2 = 1;
@@ -24,7 +24,6 @@ public class Homework1 : MonoBehaviour
         Debug.Log("");
         Debug.Log("1. Method");
         Debug.Log("");
-
         DamagePlayer(health);
         DamagePlayer(health1);
         DamagePlayer(health2);
@@ -41,9 +40,7 @@ public class Homework1 : MonoBehaviour
         Debug.Log("");
         Debug.Log("3. Method");
         Debug.Log("");
-
         PrintStrCharByChar(str1);
-
     }
 
     // Bu method oyuncunun canı 1 veya birden fazla ise hasar
@@ -80,7 +77,7 @@ public class Homework1 : MonoBehaviour
 
     // Bu method silahın verdiği hasara bakarak türünü tahmin
     // etmek için. (METHOD 2)
-    string GuessTheWeapon(float damage)
+    void GuessTheWeapon(float damage)
     {
         switch (damage)
         {
@@ -97,7 +94,6 @@ public class Homework1 : MonoBehaviour
                 Debug.Log("Bu silahın türünü algılayamıyorum.");
                 break;
         }
-        return "aa";
     }
 
 
@@ -115,5 +111,4 @@ public class Homework1 : MonoBehaviour
             Debug.Log(newStr);
         }
     }
-
 }
