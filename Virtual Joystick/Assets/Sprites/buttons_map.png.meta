@@ -1,0 +1,4317 @@
+fileFormatVersion: 2
+guid: 0dc0a3640bde42c40999937293ea6c38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttons_map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 135
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad3f7d9ff5e584fae9ff764b179a0b
+      internalID: -1683382021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 776
+        width: 135
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da6f9b6e8a9eb146a483c8bf988e8f1
+      internalID: -1595874302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 776
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbcf8ea343c15747820cb4436077476
+      internalID: 131206821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 776
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f755f49aa728740abe8a530aa25722
+      internalID: 673405686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 810
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2526c045f24a1f44852cae028ae4338
+      internalID: -818709398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 810
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd42996d93947c409d18207d963d22d
+      internalID: -380113287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 810
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774c1e50ff16c3489943abc66085520
+      internalID: -1142790814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 810
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a1b1cfba8c3245a59efc5045e9fc3
+      internalID: -180147437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 810
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babdb133675c7d47889c419e1b8742c
+      internalID: -1954729941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 810
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057521105440f7347bfc587db547687c
+      internalID: -385520779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 810
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6243acb4463104db6678679aa77b33
+      internalID: 824631077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_11
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 810
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21344de09829ba74f86cacdc6fb4dce5
+      internalID: -239754082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 135
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcb68e2095c10498f0d69ff8ed32f0
+      internalID: 125732690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 703
+        width: 135
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07502c2b2a7a92444bc398b1228c6fb1
+      internalID: -1010350620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 703
+        width: 136
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e09fa1a8f26d468660c6f3b46c373
+      internalID: -2055069988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 703
+        width: 136
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8d258b5bd6c34d8696299bd1a9733
+      internalID: -1598569857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 743
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2fbcfc721bb6f46836876f87409585
+      internalID: -569438822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 743
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ff4b9ef814ec44a35a8d720490d5f
+      internalID: 1998537508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 743
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea68e24812e9a94eb9e4e79eeb94b1d
+      internalID: 1634340480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 743
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc754e348aa834282e358a5316a32e
+      internalID: 482694815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_20
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 744
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1c33f044287c49bc7150b01c760ef
+      internalID: 2045974820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 744
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd71204c376f824f9226db53b8b729e
+      internalID: -805102128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 744
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dee4170357a74479d9686b1f01332e
+      internalID: -153959450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_23
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 744
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ac1d222024bc4e8a24907d8809089
+      internalID: 857514885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 632
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0658738de8debe4fa7c1d37f8f73ffa
+      internalID: -434278939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 632
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178fb8ccceb35a04388e1a80081e5c92
+      internalID: -935859066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 632
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78374fca32a331c4f9747fe9ff2a123a
+      internalID: -2139456860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 632
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5bba1e8ab79334bbc6d203b2cf0573
+      internalID: 972412483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 632
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd256917b8144864c9c315326b99b6f9
+      internalID: 192035341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 676
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8bbf497e9984d4881fc6dcf4cc0444
+      internalID: 755283409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 676
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61094fd0930cbf949a1f2a2799673ee1
+      internalID: -1888459213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 676
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86540f479677646a1f2cc0e12d4005
+      internalID: -413463091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 676
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc056458487e5b44a4a2eda5e3ed64f
+      internalID: -705291463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_33
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 677
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ed89e6a98a72459e2d01c0385d525
+      internalID: -1028368218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_34
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 677
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bcdc73daf898a4bb00f80d30d5321a
+      internalID: 601975894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_35
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 677
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e622cba2db844cbd3307017ea5cfb
+      internalID: 1912444466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_36
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 677
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba371903d16c4ab4f90f587d354a5ad9
+      internalID: -1951282238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 606
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5af4f74c9cf3347b248f51b86c7bcc
+      internalID: -1078465162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 606
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52dd27ac909794dac94d2788dfc4d7
+      internalID: -859443091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_39
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 606
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385498ccc5ebddc4189afb0decda65aa
+      internalID: -1854791448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_40
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 606
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e964c233ba788e744a95a3ca9b3e95ae
+      internalID: 1466423088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_41
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 607
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297c85608e11814aae7354b633611e2
+      internalID: -1130001661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_42
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 607
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985baa619332ee45839b1d841fe6be9
+      internalID: -547570750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 607
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9f545584afeb64784aac8a764592e1
+      internalID: -1013983711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_44
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 607
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8aee9291eb6bc4184a1d933518aeba
+      internalID: 453626824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 538
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2ee69d337e934eb634b41c153779a
+      internalID: 707641684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 538
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc684f9bb4c7e884f8b1fba9616b3994
+      internalID: -1210277950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 538
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf960b17a8bbb468d1f07c9dfd58be
+      internalID: -1846887353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 538
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53931bcc113e12a4fb5c6c52e3b2bb86
+      internalID: 1225394989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73322582d4de6347a78ebf64058d6f3
+      internalID: 136177055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868acc817e297849b22f99267ff6a3e
+      internalID: -1411155419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0f9a46ff8e8a43b67bc6ece0de34f
+      internalID: 68484504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_52
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87362188fc4de4399db7cf5a21cf40
+      internalID: 643288099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_53
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2a96bb6bfa864da1b04a2c244950c
+      internalID: 896143751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_54
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ed84813315b7645b6e900f99dd477a
+      internalID: 256750303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_55
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa3512fd8c7d64898c343239747e90
+      internalID: -66418843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_56
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a247e63827a0b4ead8c1b3dc63b84a
+      internalID: -1368882087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31807dc238d3040acf78b57fa66a9f
+      internalID: -502446695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_58
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b55168e4346948b2bcc48d41f1246
+      internalID: -2035383818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_59
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 540
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648522b3a31736c41a4458adcb40c251
+      internalID: -388739331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_60
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 540
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c41baada637214e8aa82b988611821
+      internalID: -193950588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 471
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a791ab72496f48b5c2aa70f900da9
+      internalID: 1063260306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 471
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e86071ad276a46b4cbf0a4dc75110
+      internalID: -1558099163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 471
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1128607438ce7a243bfff0ffeca8113f
+      internalID: 1029297215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 471
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8dd43750034f4486ff9ea6d309115
+      internalID: -1437333902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_65
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 473
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7676003e63cd4a9865f3945722d12
+      internalID: 911191412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_66
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 473
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653dc0a97a96e9643850c64fd512d370
+      internalID: -775291341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 473
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8152364ae689479a2ecd6853a8226
+      internalID: -1311499373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_68
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 473
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427510f2935864a4a9ad4c9d1ef0c1bf
+      internalID: -1494285674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 473
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bcd9e3d2b5b04a83b702f378eefa7
+      internalID: -906850357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_70
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 473
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20a657190c49684c8a900f7549b136a
+      internalID: -1203834727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_71
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 473
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d291b4c6fef2b49838ae6101375dbd
+      internalID: -931314905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_72
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 473
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85cde19169f764aa3f272420f620fd
+      internalID: 1438385183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_73
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 474
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d19f2357f638149a35ee5c6a018861
+      internalID: -523420088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_74
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 474
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce635457de033d2468dc8b2ca2647e15
+      internalID: 840741301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_75
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 474
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2dc49888428547950a30135cdec48
+      internalID: -520609739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_76
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 474
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c574f7f71b6b4cad124db0b5d4390
+      internalID: -715126514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 405
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba4adeea5d9f5408a459fc5b17936c
+      internalID: -157633712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 405
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199f63a30144fa47a7e2466e39b9d41
+      internalID: -724772391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 405
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993515b54049aa4aaf6056a28204262
+      internalID: -753116134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 405
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cbbf76af7180441a86000f5d3b855b
+      internalID: 1337548537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_81
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 406
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90876a117b1cc42833d54cc5d1833f
+      internalID: -1277115866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 406
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c714eab5b27b954daa7855615b24459
+      internalID: 653002008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_83
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 406
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536bae2ebac6f6488c01bc1fddf35ec
+      internalID: -869148143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_84
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 406
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c93d674a36a9a4cb09b9203144fde4
+      internalID: 1889444759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_85
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 406
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bf0b446f39aa4184585a76dc62171
+      internalID: 1732986384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 406
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7bda129e86ee40b12dc900aa39387
+      internalID: -1387108529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_87
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 406
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73552754175b424e96fdd83b2cd3ec3
+      internalID: -1179327333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_88
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 406
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cfbe290cc6cb4db0f9dfa91ef4077
+      internalID: -793258298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_89
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 407
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc8ce7da436994aa8878f54ba4a9c1
+      internalID: 824044600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_90
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 407
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d23a6dde867944a17b08a187d7e88
+      internalID: -948259192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_91
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 407
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efae881a1b4ebf4f86442238277857c
+      internalID: 1951141127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_92
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 407
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a3d727f979a94eb4ba67e73f5ca8c
+      internalID: -312505428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 338
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8ba633075e8834395052221fb57eb7
+      internalID: 286388466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 338
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6be25d24b444748aeeeffa1d24df5f
+      internalID: -629240988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 338
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701bd1a9283b924bac4661c5e03d48e
+      internalID: -1965733888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 338
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef852bfadd994a64f9ac074070d45712
+      internalID: 16297319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_97
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 336
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35743ea94c8ab94ab2e09feb62ec203
+      internalID: 388445802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_98
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 336
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099511801ad3a54090e9201dfb83942
+      internalID: 1941805446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 336
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670170f27ec7e90439096578b200da49
+      internalID: 2141859189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_100
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 336
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db42785a9f7e44ebff61a63af6b1c9
+      internalID: 737965834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 336
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b71fac1beeb83459c44ec78362f7d9
+      internalID: -2022459479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_102
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 338
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d16e6a22591904791e0f1e7d334b09
+      internalID: -375414382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_103
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 336
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864977130078084f8926b3c952902ec
+      internalID: -1390266918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_104
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 336
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2462f496ec2d58409aab0fb66bd16bc
+      internalID: 1074655793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_105
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 337
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70bc23d25d99f4581e05b50b975f62
+      internalID: -801334976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_106
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 337
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3d3607a85c9945aa365bd2990e5ed
+      internalID: 1361027913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_107
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 337
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28cb42b03dbe3d4da30c0d1fe9371d1
+      internalID: 2025038836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_108
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 337
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5842f6ef0d1964a9a7965beb6bdb52
+      internalID: 814224465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 271
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a33e995847d4428d33d08fe55c988
+      internalID: -1268554590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 271
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794ddec1032e0442a77e5ad447aa2d6
+      internalID: 69771097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 271
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539b25f617f46942b5b3c61a657540c
+      internalID: 2076314026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affa2dbc5e9fe54990c564dc5ded5b3
+      internalID: 684052818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ebd8af530605449baaf0c7f0ebfa51
+      internalID: 1665041808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_114
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5c05354b2b494398fd2430f91ba9d
+      internalID: 400305330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_115
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0963761d23a44287552aaf97c751a
+      internalID: 1174767499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_116
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af00b9d09c7264a8adc02e6fdb58d6
+      internalID: 1176238210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_117
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febc7a1b29feac45a59e3949d94e3e8
+      internalID: -1395495085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3557dd3d734bf234a8408f2839695440
+      internalID: -2102665199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_119
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce00da5ec9af6c43b1360c4d1979356
+      internalID: -1434927501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_120
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eec4a9f88e27243bf3459eba01125a
+      internalID: -1208877529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_121
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9b4bc345f46c40bf848102922b76e
+      internalID: 992070294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_122
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cca9c2f49fb9c42906ff92c9a43b92
+      internalID: -734443276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_123
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 270
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4903639bac2842be47ddfcf83c8d4
+      internalID: -1399985064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_124
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1a3092956c01f4cb6bfb0335844645
+      internalID: 1440133806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059468b5db155242bbaeabe220cfc19
+      internalID: -1337859300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad479c72e4c7cc143bcaa335a19bb513
+      internalID: -1132575479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 201
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c976a220607784896c4e98c8b1d80f
+      internalID: -900214759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_128
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602133b5e1586b34296951cfc0c7f357
+      internalID: 1407957398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_129
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b086ae89135e584e97400d1bf021d24
+      internalID: -1126661670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_130
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 203
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249baf201b092b4cba5ee5644276cdf
+      internalID: 1107244573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_131
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 203
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f802f762bb68ec4088a2d45403d8f15
+      internalID: -1663716312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_132
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 203
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b061a67e24ab41b7a85d7e142479d
+      internalID: 1681834258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_133
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 203
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42a3964226d844dacf17488ba4fd05
+      internalID: 1723812196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_134
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 203
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07ec02f9e6d684b955a006c8c88129
+      internalID: 1124784078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_135
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 203
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac287e763c7ca3468fb77acc32cda36
+      internalID: -1161815883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_136
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 203
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953e4ec03fb824449f1ab6cb1272739
+      internalID: -1005695430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_137
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 203
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466b204f5f3f5849aa7c233e58a5a51
+      internalID: 758663313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_138
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 203
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc2faddc8f2a084bb5065b8071e7e7e
+      internalID: 1882864463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_139
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 203
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad215323be9da4eb29f519b7b28925
+      internalID: -908124942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_140
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 203
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc7d28d70c2054ea8ad76d5c7a4934
+      internalID: -303867657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aae31134e79bc94388b5d722c57739b
+      internalID: 18689353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_142
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bfb6403b71ea5439d7edd10d7de9e5
+      internalID: -1561026531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_143
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cecc43540ead3b479f92e52f645bfbe
+      internalID: -469907970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_144
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 135
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ceb6b413d41f4198fb66b8514f3f5
+      internalID: -172939098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_145
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 136
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0f790df6b9d2a4fb78d1be0987e1e3
+      internalID: -1901370038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_146
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 136
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb41c533e61c34ebbe865b2a5014d9
+      internalID: 2065722231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_147
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 136
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1509465c686b4a41b34e84caaf74c53
+      internalID: 1539518749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_148
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 136
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0147cbc3ebb90948919856a3ca1a8be
+      internalID: -912312933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_149
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858223d8760601d41874457b8f80a265
+      internalID: -1187031662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_150
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dcd8093957c53449396f169da2b2d6
+      internalID: -8107641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_151
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440428f0788b9c439789cd57efc6f6d
+      internalID: -245207067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_152
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32b8e610191a74d8ed1a16024412e7
+      internalID: 1259222237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_153
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 133
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a27a54625fef4491e53a1a90952f6
+      internalID: -879714946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_154
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 135
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12d2bf80d05e547bd5d682727a8b47
+      internalID: -206715320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_155
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 133
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a14d0a214d5a47aa999b7470b878a
+      internalID: -1752119465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_156
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 133
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b58a7c52ccdf4e97bb35aed6047c1
+      internalID: 504253056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_157
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ff709e2990bb4baf1edcfee54898c
+      internalID: 486348483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_158
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 68
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286f285b3eda9c4fa67bcf0e5d46bc4
+      internalID: -723789583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_159
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c15e4011e06b4da3345e3bb68ef1f
+      internalID: -1245557860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_160
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 68
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66e5d0a07d9eb4a9a123cfb16fc39d
+      internalID: 8637684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_161
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 66
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c23366f2c47c1458bcc53dcadb1c65
+      internalID: -1506263834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_162
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 66
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24ec1552bec0f4a8123afca6a780a9
+      internalID: 2138417048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_163
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 66
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8470a1734da34d91b28264d4d5b73
+      internalID: -190347795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_164
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 66
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf6aec160ff0604c8d1333dd969077b
+      internalID: -693133068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_165
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 66
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85941b03697b73b4cb53f907caa7a83f
+      internalID: 1916563214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_166
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a619ebf583554faf3e352107e056d
+      internalID: 484747472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_167
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 66
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4be8f4aea3024fb5bb3971c64d09b
+      internalID: -1685145999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_168
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 66
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cee6613cfc8a409d986144b7f60fa
+      internalID: 327196137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_169
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 67
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85d281b4e084746944f460df7c3c34
+      internalID: 451036946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_170
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 67
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a318072f04d441bc094a183768b99
+      internalID: 2098204232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_171
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 67
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb485411dfe8794fbd2fdbb8fa5d80b
+      internalID: -431195748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_172
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 67
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265bdbf13d099f4b94fbeba642439b7
+      internalID: 531658559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79ea73f30c197439e100cf50ba5468
+      internalID: -363147505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e233ef7724658b4ab69a1be9e1e60c6
+      internalID: -2078517716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_175
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567b4ae571111443ab89456fdf21514
+      internalID: 1930804017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_176
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea4f7f9a94b2f4398afdf616a32358
+      internalID: 1759583131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_177
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21658e7bc1c02c449b0c3e6e6226b75c
+      internalID: 2002905277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_178
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb971e2dd3559934588602e8d524ffef
+      internalID: 1111519818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_179
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de12a04091a1ab4d95dbf5cc42aed62
+      internalID: -1081991448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_180
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f2a495d66e8f4d91791a68c79b986
+      internalID: 1992141274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_181
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ca0096dde1e34597f2b536dfe894d
+      internalID: 1017822628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_182
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94823a654549c4e49a903806c581467d
+      internalID: 360011176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_183
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc1ccca8f04074a93900601cc94846
+      internalID: 1146244218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_184
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96931df6942beb429d3c4da8a5acad2
+      internalID: -1316294030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_185
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6874931a320f439e367bfa050e415
+      internalID: -109555732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_186
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d89946ddd3d94ea08a81e7fec97b5
+      internalID: 2001714279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_187
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abea7388d7d9a488ff3678a8d19a6a
+      internalID: 96385367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_map_188
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473b234c9185e94bb46cd973a1f272b
+      internalID: -1033023623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 912325d077b8c4541bbeb62ed9e779df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      buttons_map_107: 2025038836
+      buttons_map_98: 1941805446
+      buttons_map_15: -1598569857
+      buttons_map_23: 857514885
+      buttons_map_111: 2076314026
+      buttons_map_176: 1759583131
+      buttons_map_48: 1225394989
+      buttons_map_72: 1438385183
+      buttons_map_60: -193950588
+      buttons_map_80: 1337548537
+      buttons_map_117: -1395495085
+      buttons_map_11: -239754082
+      buttons_map_151: -245207067
+      buttons_map_12: 125732690
+      buttons_map_142: -1561026531
+      buttons_map_119: -1434927501
+      buttons_map_145: -1901370038
+      buttons_map_32: -705291463
+      buttons_map_183: 1146244218
+      buttons_map_53: 896143751
+      buttons_map_18: 1634340480
+      buttons_map_33: -1028368218
+      buttons_map_79: -753116134
+      buttons_map_129: -1126661670
+      buttons_map_63: 1029297215
+      buttons_map_104: 1074655793
+      buttons_map_14: -2055069988
+      buttons_map_97: 388445802
+      buttons_map_182: 360011176
+      buttons_map_3: 673405686
+      buttons_map_169: 451036946
+      buttons_map_101: -2022459479
+      buttons_map_22: -153959450
+      buttons_map_161: -1506263834
+      buttons_map_77: -157633712
+      buttons_map_19: 482694815
+      buttons_map_13: -1010350620
+      buttons_map_73: -523420088
+      buttons_map_177: 2002905277
+      buttons_map_170: 2098204232
+      buttons_map_41: -1130001661
+      buttons_map_121: 992070294
+      buttons_map_141: 18689353
+      buttons_map_35: 1912444466
+      buttons_map_16: -569438822
+      buttons_map_100: 737965834
+      buttons_map_20: 2045974820
+      buttons_map_186: 2001714279
+      buttons_map_174: -2078517716
+      buttons_map_187: 96385367
+      buttons_map_59: -388739331
+      buttons_map_156: 504253056
+      buttons_map_127: -900214759
+      buttons_map_24: -434278939
+      buttons_map_84: 1889444759
+      buttons_map_139: -908124942
+      buttons_map_106: 1361027913
+      buttons_map_93: 286388466
+      buttons_map_46: -1210277950
+      buttons_map_66: -775291341
+      buttons_map_146: 2065722231
+      buttons_map_70: -1203834727
+      buttons_map_85: 1732986384
+      buttons_map_144: -172939098
+      buttons_map_120: -1208877529
+      buttons_map_109: -1268554590
+      buttons_map_103: -1390266918
+      buttons_map_153: -879714946
+      buttons_map_6: -1142790814
+      buttons_map_68: -1494285674
+      buttons_map_162: 2138417048
+      buttons_map_83: -869148143
+      buttons_map_95: -1965733888
+      buttons_map_118: -2102665199
+      buttons_map_1: -1595874302
+      buttons_map_116: 1176238210
+      buttons_map_180: 1992141274
+      buttons_map_75: -520609739
+      buttons_map_147: 1539518749
+      buttons_map_27: 972412483
+      buttons_map_43: -1013983711
+      buttons_map_159: -1245557860
+      buttons_map_108: 814224465
+      buttons_map_8: -1954729941
+      buttons_map_39: -1854791448
+      buttons_map_92: -312505428
+      buttons_map_102: -375414382
+      buttons_map_123: -1399985064
+      buttons_map_37: -1078465162
+      buttons_map_178: 1111519818
+      buttons_map_105: -801334976
+      buttons_map_181: 1017822628
+      buttons_map_143: -469907970
+      buttons_map_69: -906850357
+      buttons_map_5: -380113287
+      buttons_map_157: 486348483
+      buttons_map_136: -1005695430
+      buttons_map_44: 453626824
+      buttons_map_62: -1558099163
+      buttons_map_71: -931314905
+      buttons_map_26: -2139456860
+      buttons_map_148: -912312933
+      buttons_map_90: -948259192
+      buttons_map_137: 758663313
+      buttons_map_34: 601975894
+      buttons_map_9: -385520779
+      buttons_map_152: 1259222237
+      buttons_map_25: -935859066
+      buttons_map_125: -1337859300
+      buttons_map_81: -1277115866
+      buttons_map_74: 840741301
+      buttons_map_184: -1316294030
+      buttons_map_110: 69771097
+      buttons_map_160: 8637684
+      buttons_map_0: -1683382021
+      buttons_map_89: 824044600
+      buttons_map_122: -734443276
+      buttons_map_91: 1951141127
+      buttons_map_96: 16297319
+      buttons_map_132: 1681834258
+      buttons_map_185: -109555732
+      buttons_map_171: -431195748
+      buttons_map_29: 755283409
+      buttons_map_87: -1179327333
+      buttons_map_112: 684052818
+      buttons_map_113: 1665041808
+      buttons_map_61: 1063260306
+      buttons_map_57: -502446695
+      buttons_map_50: -1411155419
+      buttons_map_99: 2141859189
+      buttons_map_124: 1440133806
+      buttons_map_155: -1752119465
+      buttons_map_135: -1161815883
+      buttons_map_167: -1685145999
+      buttons_map_65: 911191412
+      buttons_map_158: -723789583
+      buttons_map_4: -818709398
+      buttons_map_28: 192035341
+      buttons_map_67: -1311499373
+      buttons_map_130: 1107244573
+      buttons_map_55: -66418843
+      buttons_map_45: 707641684
+      buttons_map_134: 1124784078
+      buttons_map_154: -206715320
+      buttons_map_138: 1882864463
+      buttons_map_30: -1888459213
+      buttons_map_54: 256750303
+      buttons_map_140: -303867657
+      buttons_map_78: -724772391
+      buttons_map_179: -1081991448
+      buttons_map_47: -1846887353
+      buttons_map_58: -2035383818
+      buttons_map_173: -363147505
+      buttons_map_128: 1407957398
+      buttons_map_38: -859443091
+      buttons_map_126: -1132575479
+      buttons_map_94: -629240988
+      buttons_map_52: 643288099
+      buttons_map_21: -805102128
+      buttons_map_165: 1916563214
+      buttons_map_168: 327196137
+      buttons_map_51: 68484504
+      buttons_map_166: 484747472
+      buttons_map_149: -1187031662
+      buttons_map_172: 531658559
+      buttons_map_164: -693133068
+      buttons_map_64: -1437333902
+      buttons_map_10: 824631077
+      buttons_map_40: 1466423088
+      buttons_map_175: 1930804017
+      buttons_map_49: 136177055
+      buttons_map_2: 131206821
+      buttons_map_7: -180147437
+      buttons_map_42: -547570750
+      buttons_map_88: -793258298
+      buttons_map_114: 400305330
+      buttons_map_133: 1723812196
+      buttons_map_76: -715126514
+      buttons_map_82: 653002008
+      buttons_map_163: -190347795
+      buttons_map_188: -1033023623
+      buttons_map_17: 1998537508
+      buttons_map_56: -1368882087
+      buttons_map_86: -1387108529
+      buttons_map_31: -413463091
+      buttons_map_115: 1174767499
+      buttons_map_150: -8107641
+      buttons_map_36: -1951282238
+      buttons_map_131: -1663716312
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
